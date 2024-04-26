@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Augusto</h1>
-<h3 align="center">Sou jovem desenvolvedor Fullstack</h3>
+<h3 align="center">Jovem Desenvolvedor Fullstack</h3>
 
 - 🧧 Projetos em [https://github.com/Pedrohud1f](https://github.com/Pedrohud1f)
 - 📱 Contato **augustopedro151@gmail.com**
