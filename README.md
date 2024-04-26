@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Augusto</h1>
 <h3 align="center">Sou jovem desenvolvedor Fullstack</h3>
 
-- 🧧 Projetos em [https://github.com/Thaynison](https://github.com/Pedrohud1f)
+- 🧧 Projetos em [https://github.com/Pedrohud1f](https://github.com/Pedrohud1f)
 - 📱 Contato **augustopedro151@gmail.com**
 - 👨‍💻 Cursando **Sistemas para Internet** *(01.2024 - 06.2026)*
 
