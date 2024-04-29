@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Augusto</h1>
-<h3 align="center">Jovem Desenvolvedor Fullstack</h3>
+<h3 align="center">Jovem Desenvolvedor Front-End</h3>
 
 - 🧧 Projetos em [https://github.com/Pedrohud1f](https://github.com/Pedrohud1f)
 - 📱 Contato **augustopedro151@gmail.com**
@@ -24,11 +24,6 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### :computer: Back-End 
-
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🖥️ Ambiente de Trabalho
 
