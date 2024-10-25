@@ -3,7 +3,7 @@
 
 - 🧧 Projetos em [https://github.com/Pedrohud1f](https://github.com/Pedrohud1f)
 - 📱 Contato **augustopedro151@gmail.com**
-- 👨‍💻 Cursando **Sistemas para Internet** *(01.2024 - 06.2026)*
+- 👨‍💻 Cursando **Ciências da Computação** *(01.2024 - ...)*
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
